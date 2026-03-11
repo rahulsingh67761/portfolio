@@ -39,6 +39,10 @@ body {
   letter-spacing: 1px;
 }
 
+.brand-first{
+  color: skyblue;
+}
+
 /* CENTER WRAPPER */
 .nav-center {
   display: flex;
@@ -212,25 +216,25 @@ body {
 
 /* positions on orbit */
 .icon1 {
-  top: 0;
+  top: 0px;
   left: 50%;
   transform: translate(-50%, -50%);
 }
 
 .icon2 {
-  right: 0;
+  right: 0px;
   top: 50%;
   transform: translate(50%, -50%);
 }
 
 .icon3 {
-  bottom: 0;
+  bottom: 0px;
   left: 50%;
   transform: translate(-50%, 50%);
 }
 
 .icon4 {
-  left: 0;
+  left: 0px;
   top: 50%;
   transform: translate(-50%, -50%);
 }

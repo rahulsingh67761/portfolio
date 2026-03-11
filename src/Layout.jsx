@@ -9,7 +9,9 @@ const Layout = () => {
     <>
       <nav className="navbar">
         <div className="nav-left">
-          <span className="brand">Rahul</span>
+          <span className="brand">
+            <span className='brand-first'>R</span>ahul.
+            </span>
         </div>
 
         <div className="nav-center">

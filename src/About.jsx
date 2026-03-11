@@ -70,7 +70,7 @@ export default function About() {
      </div>
 
        </div>
-          <a href="/Rahul Resume.pdf" className="resume-btn" download>
+          <a href="/Rahul Resume_FullStack.pdf" className="resume-btn" download>
             Download Resume
           </a>
         </div>
