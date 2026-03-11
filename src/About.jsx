@@ -69,8 +69,7 @@ export default function About() {
       </p>
      </div>
 
-</div>
-
+       </div>
           <a href="/Rahul Resume.pdf" className="resume-btn" download>
             Download Resume
           </a>
